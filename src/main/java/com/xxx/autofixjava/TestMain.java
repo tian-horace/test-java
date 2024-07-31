@@ -1,6 +1,6 @@
-package com.bytedance.autofixjava;
+package com.xxx.autofixjava;
 
-import com.bytedance.autofixjava.utils.ArrayGenerator;
+import com.xxx.autofixjava.utils.ArrayGenerator;
 
 import java.util.Arrays;
 

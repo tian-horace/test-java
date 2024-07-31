@@ -1,4 +1,4 @@
-package com.bytedance.autofixjava.utils;
+package com.xxx.autofixjava.utils;
 
 public class ArrayGenerator {
     public static int[][] generateRandomTwoDArray(int rows, int columns, int minValue, int maxValue) {
